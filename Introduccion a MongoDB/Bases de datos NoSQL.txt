@@ -1,0 +1,31 @@
+Bases de datos NoSQL.
+
+¿Qué son las bases de datos NoSQL?
+
+Las bases de datos NoSQL son una alternativa a las bases de datos relacionales o SQL.
+Estas tienen ventajas por sobre las SQL ya que las NoSQL vienen a suplir las desventajas de las bases de datos SQL.
+
+Tipos de bases de datos NoSQL.
+
+Las bases de datos NoSQL se pueden dividir en varios tipos como: 1- Documentales = Ideales para datos semi-estructurados
+2- Columnares = Excelentes para análisis de datos
+3- Clave valor = Eficientes para operaciones de escritura y lectura rápida
+4- Gráficas = Diseñadas para datos relacionales y complejos
+
+Ventajas de las bases de datos NoSQL
+
+Son bases de datos cuya escalabilidad es horizontal, esto permite manejar grandes flujos de datos y de tráfico.
+Son bases de datos que tienen flexibilidad de esquemas, es decir que son más libres en la estructura de la misma.
+Son bases de datos que son ideales para proyectos que requieren un alto rendimiento.
+
+Desafíos de una base de datos NoSQL.
+
+Consistencia = Pueden padecer de la falta de transacciones ACID.
+Curva de aprendizaje = Requieren de comprensión y adaptación.
+
+Casos de uso de las bases de datos NoSQL
+
+Las bases de datos NoSQL son recomendadas para casos en los que:
+1- Aplicaciones web de alto rendimientos = EN estos casos son esenciales.
+2- Analisis de Big data = En estos casos de requiere que sea flexible para manejar datos no estructurados3-  
+3- Aplicaciones mobiles = Se necesita de rendimiento y escalabilidad.

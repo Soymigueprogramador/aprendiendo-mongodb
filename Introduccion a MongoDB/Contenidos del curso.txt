@@ -1,0 +1,13 @@
+Contenidos del curso:
+
+1) ¿ Que es MongoDB ?
+2) ¿ Que es una base de datos NoSQL ?
+3) ¿ Cuales son las limitaciones que tienen las bases de datos NoSQL ?
+4) Entender para que necesitamos aprebnder una base de datos NoSQL
+5) Bentajas y desbentajas entre SQL y NoSQL
+6) Fundamentos de MongoDB
+7) Como conectar a MongoDB con distintos lenguajes de programacion mediante drivers. 
+8) Operaciones CRUD en MongoDB
+9) Modelar datos en MongoDB
+10) Relaciones en MongoDB
+11) Consultas avanzadas en MongoDB 

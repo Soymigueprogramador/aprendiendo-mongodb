@@ -1,0 +1,33 @@
+Modelos de bases de datos SQL vs NoSQL
+
+SQL:
+- Relacional
+- Esta basada en tablas
+- Mantiene una estructura definida
+- Se diseñan para tener la menor redundancia de datos posibles
+- Para aplicaciones que requieran datos consistentes sin dar lugar al error
+- Escalabilidad vrtical
+
+NoSQL:
+- No Relacional
+- Basada en documentos
+- Su estructura puede ser dinamica
+- Permite tener redundancia de datos 
+- Para aplicaciones que requieran grandes cantidades de datos- Escalabilidad horizontal
+
+Caracteristicas:
+- Ambos pueden trabajar en la nube
+- Ambos son multi plataforma
+- MongoDB inc - MySQL Oracle comporation
+- MongoDB: El lenguaje es muy parecido a JavaScript - MySQL: Tiene un lenguaje propio llamado SQL
+- Mapas reducidos- Conversion MongoDB
+- Analisis de performance
+- Virtualizacion
+eNTRE MUCHAS OTRAS. 
+
+Cosas a tener en cuenta:
+
+SQL = La estructura garantiza integridad de datos, pero puede ser mas lenta.
+NoSQL = Rapido, especialmente en aplicaciones de alta carga. 
+
+A la hora de seleccionar una base de datos debemos tener en cuenta las necesidades y la escalabilidad que va a tener nuestra aplicacion. 

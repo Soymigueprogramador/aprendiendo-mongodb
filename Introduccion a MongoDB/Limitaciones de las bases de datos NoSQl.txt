@@ -1,0 +1,21 @@
+Limitaciones de las bases de datos nosql
+
+¿ Cuales son las limitaciones de las bases de datos sql ?
+
+Las limitaciones de estas bases de datos son:
+1) Ligidez en el esquema de datos.
+    Uno de los problemas de las bases de datos sql o relacional es la rigidez en el esquema de sus datos, 
+    es decir que necesitamos indicarle cuáles van a ser los datos que vamos a usar.
+
+2) Su dificultad en el escalado horizontal.
+    Son dificiles de escalar horizontalmente, pueden requerizar hardware costoso y su almacenamiento no es muy grande.
+
+3) Tienen un rendimiento mas lento en lectura y escritura.
+    Si la aplicacion es muy grande o no tenemos un servidor bueno esto se va a notar un monton. 
+
+4) Falta de flexibilidad en el modelo de datos.
+    Ls bases de datos SQL tienen problemas para manejar datos estructurados o semi-estructurados.
+
+5) Dificultad en escalar grandes cantidades de datos.
+    Esto hace mencion al big data ya que al ser bases de datos basadas en columnas y filas no es facil de meterle datos rapidamente.
+    Por eso es que se usan las bases de datos NoSQL.
