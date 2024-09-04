@@ -1,2 +1,18 @@
 ¿ Que es MongoDB ?
 
+MongoDB es un sistema de bases de datos que trabaja en base a documentos.
+Los documentos van hacer de estructura tipo JSON. 
+
+MongoDB nace en 2007 con la finalidad de resolver los problemas de las bases de datos SQL.
+Uno de los problemas que viene a solucionar MongoDB es la escalabilidad horizontal, En 2009 se lanza al mercado bajo la licenia AGPL3.
+en dicho año se lazo la version 1 y desde entonces se fueron sumando distintas caracteristicas a lo largo de los años hasta llegar al 2015 cuando se lanzo
+la version 7.0 que es la mas reciente desde entonces. 
+
+MongoDB se utiliza en una gran bariedad de industrias como:
+finanzas, tecnologia, salud entro otras. 
+
+Debemos entender que MongoDB no viene a reemplazar a las bases de datos SQL si no que en realidad es otra alternativa a dichas bases de datos. 
+
+¿ Donde encontramos a MongoDB ?
+
+Para elcontrar a MongoDB debemos ir a su sitio web oficial que esta en ' https://www.mongodb.com/es ' aca podremos encontrar toda la documentacion.

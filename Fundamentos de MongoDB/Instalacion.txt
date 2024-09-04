@@ -1,0 +1,42 @@
+Instalacion de MongoDB
+
+Pasos para descargar MongoDB
+
+1- Entramos a su pagina web oficial ' https://www.mongodb.com/es '
+2- Hacemos click en producto
+3- Seleccionamos la opcion de community edition y despues ir a community server
+4- Seleccionamos la version que corresponda a nuestro sistema operativo y la descargamos
+5- Despues de descargar el instalador debemos descargar MongoShell haciendo click en tools y buscando mongoshell y descargandola
+
+Pasos para instalar MongoDB 
+
+1- Abrimos la carpeta donde se descargo el instalados
+2- Ejecutamos el instalador y seguimos los pasos alli indicados
+3- En la instalacion debemos seleccionar la opcion que nos permite instar MongoDBCompass
+4- Despues de terminar con esta instalacion hacemos lo mismo con MongoDB Shell
+5- Despues de estas instalaciones vamos a crear una variable de entorno para MongoDB
+
+Pasos para crear una variable de entorno para MongoDB
+
+Despues de terminar con la instalacion de MongoDB vamos a ir a buscar la carpeta que se creo despues de la instalacion
+
+1- Vamos a este dispositivo
+2- Disco local C
+3- MongoDB
+4- server
+5- Version que allamos descargandola
+6- Bin
+7- Copiamos esta URL o una paresida ' C:\Program Files\MongoDB\Server\7.0\bin '
+8- En el buscado de windows escribimos ' variables de entorno '
+9- Damos click en la opcion que nos sale y en la pantalla de menus damos click en variables de entorno10- Damos click en path
+11- Damos click en nuevo
+12- Pegamos la ruta de las carpetas
+13- Damos click en aplicar y despues en aceptar
+
+Links:
+Community edition o edicion de la comunidad = https://www.mongodb.com/try/download/community 
+MongoDB Shell = https://www.mongodb.com/try/download/shell 
+
+Aclaracion:
+Despues de haber descargado MongoDB Shell lo descomprimimos, copiamos los archivos que estan dentro de esa carpeta y la pegamos 
+en la carpeta que tenemos undicada en la ruta mas arriba
